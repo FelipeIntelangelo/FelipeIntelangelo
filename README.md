@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Podcast Api Restful](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful)
 
-- 🌱 I’m currently learning **SpringBoot with Java, and all his branches.**
+- 🌱 I’m currently learning **SpringBoot with Java, and all his branches. And starting with Angular**
 
 - 👯 I’m looking to collaborate on [Hostel Managing with Java](https://github.com/Yoru3971/TP-Final-Programacion-II)
 
