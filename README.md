@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipeintelangelo" alt="felipeintelangelo" /></a> </p>
 
-- 🔭 I’m currently working on [Podcast Api Restful](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful)
+- 🔭 I’m currently working on Wavelly, a Podcast Application [Wavelly Api + DB](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful) & [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront)
 
-- 🌱 I’m currently learning **SpringBoot with Java, and all his branches. And starting with Angular**
+- 🌱 I’m currently learning **SpringBoot And Angular**
 
 - 👯 I’m looking to collaborate on [Hostel Managing with Java](https://github.com/Yoru3971/TP-Final-Programacion-II)
 
