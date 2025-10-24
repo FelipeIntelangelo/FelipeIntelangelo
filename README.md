@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **SpringBoot And Angular**
 
-- 👯 I’m looking to collaborate on [Hostel Managing with Java](https://github.com/Yoru3971/TP-Final-Programacion-II)
-
-- 🤝 I’m looking for help with [Podcast Api Restful](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful)
+- 🤝 I’m looking for help with [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront)
 
 - 👨‍💻 All of my projects are available at [https://github.com/FelipeIntelangelo?tab=repositories](https://github.com/FelipeIntelangelo?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/felipe-intelangelo/](https://www.linkedin.com/in/felipe-intelangelo/)
 
-- 💬 Ask me about **SpringBoot, Sql, Java.**
+- 💬 Ask me about **SpringBoot, Sql, Java, Angular.**
 
 - 📫 How to reach me **felipeintelangelo@gmail.com**
 
