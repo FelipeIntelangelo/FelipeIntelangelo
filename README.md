@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Intelangelo Felipe</h1>
-<h3 align="center">Estudiante de programacion en la UTN, entusiasta en la cyberseguridad y un amante del mundo IT.</h3>
+<h3 align="center">Estudiante recibido de programacion en la UTN, entusiasta en la cyberseguridad y un amante del mundo IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeintelangelo&label=Profile%20views&color=0e75b6&style=flat" alt="felipeintelangelo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipeintelangelo" alt="felipeintelangelo" /></a> </p>
 
-- 🔭 I’m currently working on Wavelly, a Podcast Application [Wavelly Api + DB](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful) & [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront)
+- 🔭 I’m currently working on Wavelly, a Podcast Application [Wavelly Api + DB](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful) & [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront) [Wavelly](https://github.com/FelipeIntelangelo/Wavely)
 
-- 🌱 I’m currently learning **SpringBoot And Angular**
+- 🌱 I’m currently learning **SpringBoot And Angular** and trying to improve my knowledge on servers and kubernetes
 
 - 🤝 I’m looking for help with [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront)
 
