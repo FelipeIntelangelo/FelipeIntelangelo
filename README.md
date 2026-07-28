@@ -13,19 +13,19 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FelipeIntelangelo?tab=repositories](https://github.com/FelipeIntelangelo?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/felipe-intelangelo/](https://www.linkedin.com/in/felipe-intelangelo/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/felipeintelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
 
 - 💬 Ask me about **SpringBoot, Sql, Java, Angular.**
 
 - 📫 How to reach me **felipeintelangelo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipe-intelangelo/](https://www.linkedin.com/in/felipe-intelangelo/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/felipe-intelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
 
 - ⚡ Fun fact **I learned more about cybersecurity by watching shows and solving online challenges than in my first classes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe-intelangelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-intelangelo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipeintelangelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-intelangelo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
