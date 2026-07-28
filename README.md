@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **felipeintelangelo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipe-intelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/felipeintelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
 
 - ⚡ Fun fact **I learned more about cybersecurity by watching shows and solving online challenges than in my first classes**
 
