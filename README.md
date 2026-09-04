@@ -1,34 +1,120 @@
-<h1 align="center">Hi 👋, I'm Intelangelo Felipe</h1>
-<h3 align="center">Estudiante recibido de programacion en la UTN, entusiasta en la cyberseguridad y un amante del mundo IT.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Felipe Intelangelo</h1>
+  <h3>Full Stack Software Engineer | Java & Spring Boot • Angular • Cloud & DevOps</h3>
+  <p>
+    <em>Graduado en Programación (UTN) 🇦🇷 • Entusiasta de la Ciberseguridad, Arquitecturas Limpias y Cloud Computing</em>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeintelangelo&label=Profile%20views&color=0e75b6&style=flat" alt="felipeintelangelo" /> </p>
+  <p align="center">
+    <a href="https://linkedin.com/in/felipeintelangelo">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:felipeintelangelo@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/FelipeIntelangelo?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipeintelangelo" alt="felipeintelangelo" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=felipeintelangelo&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
-- 🔭 I’m currently working on Wavelly, a Podcast Application [Wavelly Api + DB](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful) & [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront) [Wavelly](https://github.com/FelipeIntelangelo/Wavely)
+---
 
-- 🌱 I’m currently learning **SpringBoot And Angular** and trying to improve my knowledge on servers and kubernetes
+### 👨‍💻 Sobre mí
 
-- 🤝 I’m looking for help with [Wavelly Front](https://github.com/FelipeIntelangelo/PodcastFront)
+- 🚀 **Full Stack Developer** graduado de la **Universidad Tecnológica Nacional (UTN)**, enfocado en el desarrollo de software escalable, seguro y con altos estándares de experiencia de usuario.
+- 🔭 **Proyecto Principal Activo:** Construyendo y evolucionando **[DiDent](https://github.com/FelipeIntelangelo/DiDent)**, un sistema SaaS multi-tenant para clínicas odontológicas con backend en **Spring Boot (Java 21)**, frontend reactivo en **Angular**, integración con Google Calendar API v3, odontograma táctil digital y despliegue en la nube.
+- 🎙️ **Otros Proyectos:** Creador de **[Wavelly](https://github.com/FelipeIntelangelo/Wavely)**, una plataforma de streaming y gestión de podcasts ([RESTful API](https://github.com/FelipeIntelangelo/Podcast-Api-RESTful) | [Frontend](https://github.com/FelipeIntelangelo/PodcastFront)).
+- 🛡️ **Seguridad e Infraestructura:** Pasión activa por la **ciberseguridad**, el diseño de endpoints con control de acceso en dos capas (JWT + RBAC / Multi-Tenant Claims), entornos Linux, contenedores con Docker y despliegue en VPS (Oracle Cloud / Cloudflare).
+- 💬 **Hablemos sobre:** Java, Spring Boot, Arquitectura REST, Angular (Signals & Standalone), Docker, Bases de Datos SQL y despliegue continuo.
+- ⚡ **Dato curioso:** Mi fascinación por la ciberseguridad y la ingeniería inversa comenzó resolviendo desafíos CTF online y explorando sistemas de forma autodidacta.
 
-- 👨‍💻 All of my projects are available at [https://github.com/FelipeIntelangelo?tab=repositories](https://github.com/FelipeIntelangelo?tab=repositories)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/felipeintelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
+### 🛠️ Tecnologías y Herramientas
 
-- 💬 Ask me about **SpringBoot, Sql, Java, Angular.**
-
-- 📫 How to reach me **felipeintelangelo@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipeintelangelo/](https://www.linkedin.com/in/felipeintelangelo/)
-
-- ⚡ Fun fact **I learned more about cybersecurity by watching shows and solving online challenges than in my first classes**
-
-<h3 align="left">Connect with me:</h3>
+#### **Backend & Lenguajes**
 <p align="left">
-<a href="https://linkedin.com/in/felipeintelangelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-intelangelo" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security_&_JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+#### **Frontend & UI/UX**
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeintelangelo&show_icons=true&locale=en&layout=compact" alt="felipeintelangelo" /></p>
+#### **Bases de Datos**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### **DevOps, Cloud & Herramientas**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+---
+
+### 🌟 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🦷 DiDent SaaS</h3>
+      <p align="center">
+        Plataforma SaaS integral de gestión odontológica multi-tenant. Incorpora fichas clínicas dinámicas, odontograma táctil digital reactivo, agenda integrada con Google Calendar API v3, auditoría y facturación de obras sociales y despliegue productivo en Oracle Cloud VPS con Docker.
+      </p>
+      <p align="center">
+        <a href="https://github.com/FelipeIntelangelo/DiDent"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎙️ Wavelly</h3>
+      <p align="center">
+        Ecosistema completo para gestión y reproducción de podcasts. Diseñado con una API RESTful escalable desacoplada del frontend web, integrando autenticación segura, persistencia en base de datos y un reproductor multimedia fluido.
+      </p>
+      <p align="center">
+        <a href="https://github.com/FelipeIntelangelo/Wavely"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=felipeintelangelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeintelangelo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  </p>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=felipeintelangelo&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
+    </a>
+  </p>
+</div>
