@@ -29,7 +29,7 @@
 - **Enfoque actual:** Founder y Lead Developer de **DiDent**, plataforma SaaS multi-tenant en producción para la gestión integral de clínicas odontológicas. 
 - **Especialidad Técnica:** Arquitecturas backend modulares (Java 21, Spring Security JWT), interfaces reactivas de alto rendimiento (Angular Signals, Three.js/WebGL) y orquestación de infraestructura cloud automatizada (Docker, Oracle Cloud, Cloudflare, CI/CD).
 - **Ingeniería Aumentada:** Desarrollo flujos de trabajo avanzados integrando agentes de IA (Codex, Claude, Gemini) mediante Model Context Protocol (MCP), Jira y revisión semántica de código, escalando la capacidad operativa sin sacrificar testing (JUnit/Mockito) ni calidad.
-- **Formación:** Desarrollador de Software graduado de la Universidad Tecnológica Nacional (UTN).
+- **Formación & Idiomas:** Desarrollador de Software graduado de la Universidad Tecnológica Nacional (UTN) | Nivel de Inglés: B2 (Professional Working Proficiency).
 
 ---
 
