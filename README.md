@@ -104,6 +104,13 @@
 
 ---
 
+### 📝 Nota sobre mi actividad en GitHub
+
+> **Actualmente dedico la mayor parte de mi tiempo al desarrollo y mantenimiento de DiDent, mi proyecto principal SaaS.** 
+> Dado que el repositorio de este proyecto se encuentra configurado como **privado** por cuestiones comerciales, gran parte de mi código, contribuciones diarias y commits recientes no se reflejan en el gráfico público de actividad a continuación.
+
+<br>
+
 ### Métricas de GitHub
 
 <div align="center">
