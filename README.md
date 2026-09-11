@@ -26,10 +26,10 @@
 
 ### Perfil
 
-- 🚀 **Enfoque actual:** Founder y Lead Developer de **DiDent**, una plataforma SaaS multi-tenant en producción para la gestión integral de clínicas odontológicas. 
-- ⚙️ **Especialidad Técnica:** Arquitecturas backend modulares (Java 21, Spring Security JWT), interfaces reactivas de alto rendimiento (Angular Signals, Three.js/WebGL) y orquestación de infraestructura cloud automatizada (Docker, Oracle Cloud, Cloudflare, CI/CD).
-- 🤖 **Ingeniería Aumentada:** Desarrollo flujos de trabajo avanzados integrando agentes de IA (Codex, Claude, Gemini) mediante **Model Context Protocol (MCP)**, Jira y revisión semántica de código, multiplicando mi capacidad operativa sin sacrificar testing (JUnit/Mockito) ni calidad.
-- 🎓 **Formación:** Desarrollador de Software graduado de la Universidad Tecnológica Nacional (UTN).
+- **Enfoque actual:** Founder y Lead Developer de **DiDent**, plataforma SaaS multi-tenant en producción para la gestión integral de clínicas odontológicas. 
+- **Especialidad Técnica:** Arquitecturas backend modulares (Java 21, Spring Security JWT), interfaces reactivas de alto rendimiento (Angular Signals, Three.js/WebGL) y orquestación de infraestructura cloud automatizada (Docker, Oracle Cloud, Cloudflare, CI/CD).
+- **Ingeniería Aumentada:** Desarrollo flujos de trabajo avanzados integrando agentes de IA (Codex, Claude, Gemini) mediante Model Context Protocol (MCP), Jira y revisión semántica de código, escalando la capacidad operativa sin sacrificar testing (JUnit/Mockito) ni calidad.
+- **Formación:** Desarrollador de Software graduado de la Universidad Tecnológica Nacional (UTN).
 
 ---
 
@@ -83,7 +83,7 @@
     <td width="50%">
       <h3 align="center">DiDent SaaS</h3>
       <p align="center">
-        Sistema integral en producción operando con arquitectura multi-tenant. Cada clínica cuenta con aislamiento de datos, feature flags modulares y suscripciones (Mercado Pago). Incluye odontograma interactivo dual (ChangeDetection OnPush, 60fps), integración bidireccional con Google Calendar v3 y recordatorios automatizados vía WhatsApp Cloud API. Infraestructura optimizada desplegada en Oracle Cloud + Cloudflare.
+        Sistema integral en producción operando con arquitectura multi-tenant. Cada clínica cuenta con aislamiento de datos, feature flags modulares y suscripciones (Mercado Pago). Incluye odontograma interactivo dual (ChangeDetection OnPush, 60fps), integración bidireccional con Google Calendar API v3 y recordatorios automatizados vía WhatsApp Cloud API. Infraestructura optimizada desplegada en Oracle Cloud y Cloudflare.
       </p>
     </td>
     <td width="50%">
@@ -100,10 +100,10 @@
 
 ---
 
-### 📝 Sobre mi actividad (Contribution Graph)
+### Nota sobre mi actividad de desarrollo
 
-> **Casi el 100% de mis commits y contribuciones diarias actuales están destinados a DiDent.** 
-> Como el repositorio principal de este producto SaaS opera bajo licencia comercial y está configurado como **privado**, mi actividad de desarrollo no se refleja en el gráfico público (los "cuadritos verdes") a continuación. Mis métricas reales incluyen despliegues a producción constantes y mantenimiento de infraestructura viva.
+> **La totalidad de mis commits y contribuciones diarias actuales están destinados a DiDent.** 
+> Dado que el repositorio principal de este producto opera bajo licencia comercial y está configurado como privado, mi actividad diaria de desarrollo no se refleja en el historial público de contribuciones de GitHub. Mis métricas reales se basan en la operación del sistema en producción y el mantenimiento activo de la infraestructura.
 
 <br>
 
